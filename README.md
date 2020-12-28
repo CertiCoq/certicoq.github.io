@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+# CertiCoq
 
-You can use the [editor on GitHub](https://github.com/CertiCoq/certicoq.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<p align="center">
+<img src="https://zoep.github.io/certicoq.png" alt="MetaCoq" width="100px"/>
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Overview
 
-### Markdown
+CertiCoq is a compiler for Gallina, the specification language of the [Coq proof assistant](https://coq.inria.fr/refman/index.html). CertiCoq targets Clight, a subset of the C language that can be compiled with any C compiler, including the [CompCert](http://compcert.org) verified compiler.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The goal of the CertiCoq project is to build an end-to-end verified compiler for Gallina, bridging the gap between formally verified source programs and their compiled executables.  
 
-```markdown
-Syntax highlighted code block
+Large parts of the CertiCoq compiler have been verified whereas others are in the process of being verified.
 
-# Header 1
-## Header 2
-### Header 3
+You can find CertiCoq's souce code on [GitHub](). 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Current Members
 
-**Bold** and _Italic_ and `Code` text
+[Andrew Appel](https://www.cs.princeton.edu/~appel/), [Yannick Forster](https://www.ps.uni-saarland.de/~forster/), [Anvay Grover](https://anvayg.github.io), [Joomy Korkut](https://www.cs.princeton.edu/~ckorkut/), [John Li](https://www.cs.princeton.edu/~johnli/), [Zoe Paraskevopoulou](https://zoep.github.io), and [Matthieu Sozeau](https://www.irif.fr/~sozeau/).
 
-[Link](url) and ![Image](src)
-```
+## Past Members and Contributors
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Abhishek Anand, Greg Morrisett, Randy Pollack, Olivier Savary Belanger, Matthew Weaver
 
-### Jekyll Themes
+## Documentation
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CertiCoq/certicoq.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The [CertiCoq Wiki](https://github.com/PrincetonUniversity/certicoq/wiki) has instructions for using the [CertiCoq plugin](https://github.com/PrincetonUniversity/certicoq/wiki/The-CertiCoq-plugin) to compile Gallina to C and interfacing with the generated C code.
 
-### Support or Contact
+The Wiki also gives an [overview](https://github.com/PrincetonUniversity/certicoq/wiki/The-CertiCoq-pipeline) of the compiler and its verification status. 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+## Publications 
+
+- *Closure Conversion is Safe for Space*, Zoe Paraskevopoulou and Andrew W. Appel. Proceedings of the ACM on Programming Languages, vol. 3, no. ICFP, article 83, 29 pages, doi 10.1145/3341687, August 2019.
+
+- *Shrink Fast Correctly!* Olivier Savary Belanger and Andrew W. Appel. Proceedings of International Symposium on Principles and Practice of Declarative Programming (PPDP'17), pages 49-60, ACM Press, October 2017 (PPDP’17).
+
+- *CertiCoq: A verified compiler for Coq*. Abhishek Anand, Andrew Appel, Greg Morrisett, Zoe Paraskevopoulou, Randy Pollack, Olivier Savary Belanger, Matthieu Sozeau, and Matthew Weaver. In CoqPL'17: The Third International Workshop on Coq for Programming Languages, January 2017.
+
+
+## License 
+
+CertiCoq is open source and distributed under the [MIT license](LICENSE.md).
+
+## Bugs 
+
+We use github's [issue tracker](https://github.com/PrincetonUniversity/certicoq/issues) to keep track of bugs and feature requests.
