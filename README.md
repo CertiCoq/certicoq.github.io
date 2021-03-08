@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://certicoq.github.io/certicoq.png" alt="CertiCoq" width="200px"/>
 <img src="https://certicoq.github.io/Blank300.png" alt="blank" width="200px"/>
-<img src="https://certicoq.github.io/deepspec-logo-300dpi.png" width="100px">[DeepSpec](https://deepspec.org/)
+<img src="https://certicoq.github.io/deepspec-logo-300dpi.png" width="100px">(https://deepspec.org/)
 </p>
 
 ## Overview
