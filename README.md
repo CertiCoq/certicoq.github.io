@@ -1,17 +1,16 @@
 # CertiCoq
 
-<p align="center">
-<img src="https://certicoq.github.io/certicoq.png" alt="CertiCoq" width="150px"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<table>
-<tr><td>
+<table border=0>
+<tr>
+<td><img src="https://certicoq.github.io/certicoq.png" alt="CertiCoq" width="150px"/>
+</a><td>
+<td>
 <a href=https://deepspec.org/>
 <img src="https://certicoq.github.io/deepspec-logo-300dpi.png" alt="DeepSpec" width="100px"/></a></td>
-<tr><td>
+<br>
 Developed as part of <a href=https://deepspec.org/>DeepSpec</a>.</td>
 </tr>
 </table>
-</p>
 
 ## Overview
 
