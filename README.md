@@ -1,9 +1,7 @@
-# CertiCoq
-
 <p align="center">
 <img src="certicoq.png" alt="CertiCoq" width="200px"/>
 <img src="Blank300.png" alt="blank" width="200px"/>
-<img src="deepspec-logo-300dpi.png" width="100px"> <a href=https://deepspec.org/>DeepSpec</a>
+<img src="deepspec-logo-300dpi.png" width="100px"/>
 </p>
 
 ## Overview
@@ -14,8 +12,7 @@ The goal of the CertiCoq project is to build an end-to-end verified compiler for
 
 Large parts of the CertiCoq compiler have been verified whereas others are in the process of being verified.
 
-You can find CertiCoq's souce code on [GitHub](https://github.com/CertiCoq/certicoq). 
-
+You can find CertiCoq's souce code on [GitHub](https://github.com/CertiCoq/certicoq). CertiCoq is part of the [DeepSpec](https://deepspec.org) project.
 
 ## Current Members
 
