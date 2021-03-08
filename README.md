@@ -43,7 +43,7 @@ The Wiki also gives an [overview](https://github.com/PrincetonUniversity/certico
 
 ## Funding
 
-The project has been supported by the National Science Foundation, grants CCF-1407790,  CCF-1407794,  CCF-2005545, and CIFellows program/
+The project has been supported by the National Science Foundation, grants CCF-1407790,  CCF-1407794,  CCF-2005545, and the CIFellows program.
 
 ## License 
 
