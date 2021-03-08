@@ -12,7 +12,7 @@ The goal of the CertiCoq project is to build an end-to-end verified compiler for
 
 Large parts of the CertiCoq compiler have been verified whereas others are in the process of being verified.
 
-You can find CertiCoq's souce code on [GitHub](). 
+You can find CertiCoq's souce code on [GitHub](https://github.com/CertiCoq/certicoq). 
 
 
 ## Current Members
@@ -32,12 +32,18 @@ The Wiki also gives an [overview](https://github.com/PrincetonUniversity/certico
 
 ## Publications 
 
-- *Closure Conversion is Safe for Space*, Zoe Paraskevopoulou and Andrew W. Appel. Proceedings of the ACM on Programming Languages, vol. 3, no. ICFP, article 83, 29 pages, doi 10.1145/3341687, August 2019.
+- *Certifying Graph-Manipulating C Programs via Localizations within Data Structures*. Shengyi Wang, Qinxiang Cao, Anshuman Mohan, and Aquinas Hobor. OOPSLA: Conference on Object-Oriented Programming Systems, Languages, and Applications (OOPSLA 2019), Athens, Greece, October 2019.
 
-- *Shrink Fast Correctly!* Olivier Savary Belanger and Andrew W. Appel. Proceedings of International Symposium on Principles and Practice of Declarative Programming (PPDP'17), pages 49-60, ACM Press, October 2017 (PPDP’17).
+- *Closure Conversion is Safe for Space*. Zoe Paraskevopoulou and Andrew W. Appel. Proceedings of the ACM on Programming Languages, vol. 3, no. ICFP, article 83, 29 pages, doi 10.1145/3341687, August 2019.
+
+- *Shrink Fast Correctly!*. Olivier Savary Belanger and Andrew W. Appel. Proceedings of International Symposium on Principles and Practice of Declarative Programming (PPDP'17), pages 49-60, ACM Press, October 2017 (PPDP’17).
 
 - *CertiCoq: A verified compiler for Coq*. Abhishek Anand, Andrew Appel, Greg Morrisett, Zoe Paraskevopoulou, Randy Pollack, Olivier Savary Belanger, Matthieu Sozeau, and Matthew Weaver. In CoqPL'17: The Third International Workshop on Coq for Programming Languages, January 2017.
 
+
+## Funding
+
+The project has been supported by the National Science Foundation, grants CCF-1407790,  CCF-1407794,  CCF-2005545, and CIFellows program/
 
 ## License 
 
