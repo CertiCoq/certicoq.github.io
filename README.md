@@ -1,10 +1,9 @@
 # CertiCoq
 
 <p align="center">
-<img src="https://certicoq.github.io/certicoq.png" alt="CertiCoq" width="200px"/>
-<img src="https://certicoq.github.io/Blank300.png" alt="blank" width="200px"/>
-<a href=https://deepspec.org/>
-<img src="https://certicoq.github.io/deepspec-logo-300dpi.png" alt="DeepSpec" width="100px"/></a>
+<img src="certicoq.png" alt="CertiCoq" width="200px"/>
+<img src="Blank300.png" alt="blank" width="200px"/>
+<img src="deepspec-logo-300dpi.png" width="100px"> <a href=https://deepspec.org/>DeepSpec</a>
 </p>
 
 ## Overview
