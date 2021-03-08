@@ -1,7 +1,16 @@
 # CertiCoq
 
 <p align="center">
-<img src="https://zoep.github.io/certicoq.png" alt="MetaCoq" width="100px"/>
+<img src="https://certicoq.github.io/certicoq.png" alt="CertiCoq" width="150px"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<table>
+<tr><td>
+<a href=https://deepspec.org/>
+<img src="https://certicoq.github.io/deepspec-logo-300dpi.png" alt="DeepSpec" width="100px"/></a></td>
+<tr><td>
+Developed as part of <a href=https://deepspec.org/>DeepSpec</a>.</td>
+</tr>
+</table>
 </p>
 
 ## Overview
