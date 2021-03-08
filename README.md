@@ -6,7 +6,7 @@
 </a><td>
 <td>
 <a href=https://deepspec.org/>
-<img src="https://certicoq.github.io/deepspec-logo-300dpi.png" alt="DeepSpec" width="100px"/></a></td>
+<img src="https://certicoq.github.io/deepspec-logo-300dpi.png" alt="DeepSpec" width="100px"/></a>
 <br>
 Developed as part of <a href=https://deepspec.org/>DeepSpec</a>.</td>
 </tr>
