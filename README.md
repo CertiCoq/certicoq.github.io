@@ -16,7 +16,7 @@ You can find CertiCoq's souce code on [GitHub](https://github.com/CertiCoq/certi
 
 ## Current Members
 
-[Andrew Appel](https://www.cs.princeton.edu/~appel/), [Yannick Forster](https://www.ps.uni-saarland.de/~forster/), [Anvay Grover](https://anvayg.github.io), [Joomy Korkut](https://www.cs.princeton.edu/~ckorkut/), [John Li](https://www.cs.princeton.edu/~johnli/), [Zoe Paraskevopoulou](https://zoep.github.io), and [Matthieu Sozeau](https://www.irif.fr/~sozeau/).
+[Andrew Appel](https://www.cs.princeton.edu/~appel/), [Yannick Forster](https://www.ps.uni-saarland.de/~forster/), [Anvay Grover](https://anvayg.github.io), [Joomy Korkut](https://www.cs.princeton.edu/~ckorkut/), [John Li](https://www.cs.princeton.edu/~johnli/), [Zoe Paraskevopoulou](https://zoep.github.io), [Kathrin Stark](https://www.k-stark.de/), and [Matthieu Sozeau](https://www.irif.fr/~sozeau/).
 
 ## Past Members and Contributors
 
@@ -30,6 +30,10 @@ The Wiki also gives an [overview](https://github.com/PrincetonUniversity/certico
 
 
 ## Publications 
+
+- *[Compositional Optimizations for CertiCoq](https://doi.org/10.1145/3473591)*, by Zoe Paraskevopoulou, John M. Li, and Andrew W. Appel, Proc. ACM Program. Lang. Vol. 5, No. ICFP, Article 86 (30 pages), August 2021.
+
+- *[Deriving Efficient Program Transformations from Rewrite Rules](https://doi.org/10.1145/3473579)*, by John M. Li and Andrew W. Appel, Proc. ACM Program. Lang. Vol. 5, No. ICFP, Article 74 (29 pages), August 2021.
 
 - *Certifying Graph-Manipulating C Programs via Localizations within Data Structures*. Shengyi Wang, Qinxiang Cao, Anshuman Mohan, and Aquinas Hobor. OOPSLA: Conference on Object-Oriented Programming Systems, Languages, and Applications (OOPSLA 2019), Athens, Greece, October 2019.
 
