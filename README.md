@@ -16,11 +16,11 @@ You can find CertiCoq's souce code on [GitHub](https://github.com/CertiCoq/certi
 
 ## Current Members
 
-[Andrew Appel](https://www.cs.princeton.edu/~appel/), [Yannick Forster](https://www.ps.uni-saarland.de/~forster/), [Anvay Grover](https://anvayg.github.io), [Joomy Korkut](https://www.cs.princeton.edu/~ckorkut/), [John Li](https://www.cs.princeton.edu/~johnli/), [Zoe Paraskevopoulou](https://zoep.github.io), [Kathrin Stark](https://www.k-stark.de/), and [Matthieu Sozeau](https://www.irif.fr/~sozeau/).
+[Andrew Appel](https://www.cs.princeton.edu/~appel/), [Yannick Forster](https://www.ps.uni-saarland.de/~forster/), [Joomy Korkut](https://joomy.korkutblech.com/), [Zoe Paraskevopoulou](https://zoep.github.io), [Kathrin Stark](https://www.k-stark.de/), and [Matthieu Sozeau](https://www.irif.fr/~sozeau/).
 
 ## Past Members and Contributors
 
-Abhishek Anand, Greg Morrisett, Randy Pollack, Olivier Savary Belanger, Matthew Weaver
+Abhishek Anand, Anvay Grover, John Li, Greg Morrisett, Randy Pollack, Olivier Savary Belanger, Matthew Weaver
 
 ## Documentation
 
@@ -31,6 +31,7 @@ The Wiki also gives an [overview](https://github.com/PrincetonUniversity/certico
 
 ## Publications 
 
+- *[A Verified Foreign Function Interface between Coq and C](https://doi.org/10.1145/3704860)*, by Joomy Korkut, Kathrin Stark, and Andrew W. Appel. Proc. ACM Program. Lang. 9, POPL, Article 24 (31 pages), January 2025.
 - *[Compiling with Continuations, Correctly](https://doi.org/10.1145/3485491)*, by Zoe Paraskevopoulou and Anvay Grover, Proc. ACM Program. Lang. Vol. 5, No. OOPSLA, Article 114 (29 pages), October 2021.
 
 - *[Compositional Optimizations for CertiCoq](https://doi.org/10.1145/3473591)*, by Zoe Paraskevopoulou, John M. Li, and Andrew W. Appel, Proc. ACM Program. Lang. Vol. 5, No. ICFP, Article 86 (30 pages), August 2021.
